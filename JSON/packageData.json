@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Package 3",
+    "price": 2,
+    "description": "This package offers advanced analytics functionality, providing insights into user behavior and product performance.",
+    "features": [
+      "Advanced analytics dashboard",
+      "Customizable reporting",
+      "Integration with third-party analytics tools"
+    ],
+    "slot": 10,
+    "duration": "30 days",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T08:56:06.845Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T08:57:25.694Z"
+    },
+    "__v": 0
+  },
+  {
+    "name": "Package 4",
+    "price": 3,
+    "description": "This package offers enhanced security features, ensuring the safety of your data and transactions.",
+    "features": [
+      "SSL encryption",
+      "Two-factor authentication",
+      "Regular security updates"
+    ],
+    "slot": 15,
+    "duration": "60 days",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T08:56:06.845Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T08:57:25.694Z"
+    },
+    "__v": 0
+  },
+  {
+    "name": "Package 5",
+    "price": 4,
+    "description": "This package offers priority support, ensuring timely assistance for any issues or queries you may have.",
+    "features": [
+      "Dedicated support agent",
+      "24/7 support availability",
+      "Guaranteed response time"
+    ],
+    "slot": 20,
+    "duration": "90 days",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T08:56:06.845Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T08:57:25.694Z"
+    },
+    "__v": 0
+  },
+  {
+    "name": "Package 6",
+    "price": 5,
+    "description": "This package offers additional customization options, allowing you to tailor the platform to your specific needs.",
+    "features": [
+      "Customizable themes",
+      "Branding options",
+      "Advanced CSS editing"
+    ],
+    "slot": 25,
+    "duration": "120 days",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T08:56:06.845Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T08:57:25.694Z"
+    },
+    "__v": 0
+  },
+  {
+    "name": "Package 7",
+    "price": 6,
+    "description": "This package offers API access, allowing you to integrate your platform with other applications and services.",
+    "features": [
+      "RESTful API",
+      "Webhooks",
+      "Documentation and support"
+    ],
+    "slot": 30,
+    "duration": "180 days",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T08:56:06.845Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T08:57:25.694Z"
+    },
+    "__v": 0
+  }
+]

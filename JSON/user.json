@@ -1,0 +1,363 @@
+[
+  {
+    "fullName": "John Doe",
+    "email": "johndoe@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234567"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "John Doe",
+    "email": "johndoe@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234567"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Jane Smith",
+    "email": "janesmith@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234568"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Alice Johnson",
+    "email": "alicejohnson@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234569"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Michael Smith",
+    "email": "michaelsmith@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234570"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "David Brown",
+    "email": "davidbrown@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234571"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Emily Wilson",
+    "email": "emilywilson@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234572"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Olivia Martinez",
+    "email": "oliviamartinez@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234573"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Ethan Anderson",
+    "email": "ethananderson@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234574"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Sophia Rodriguez",
+    "email": "sophiarodriguez@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234575"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Liam Garcia",
+    "email": "liamgarcia@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234576"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Mia Martinez",
+    "email": "miamartinez@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234577"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "James Brown",
+    "email": "jamesbrown@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234578"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Ava Wilson",
+    "email": "avawilson@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234579"
+    },
+    "otpVerified": true,
+    "role": "user",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Sophie Taylor",
+    "email": "sophietaylor@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234580"
+    },
+    "otpVerified": true,
+    "role": "seller",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Daniel Miller",
+    "email": "danielmiller@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234581"
+    },
+    "otpVerified": true,
+    "role": "seller",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Sophia White",
+    "email": "sophiawhite@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234582"
+    },
+    "otpVerified": true,
+    "role": "seller",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Ella Clark",
+    "email": "ellaclark@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234583"
+    },
+    "otpVerified": true,
+    "role": "seller",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "fullName": "Grace Davis",
+    "email": "gracedavis@example.com",
+    "password": "$2b$08$8423uv3ma0blo8f48iQKU.rYT7r4gIzqn6fzJzvhJelyV17Mquyki",
+    "phone": {
+      "countryCode": "+880",
+      "number": "+8801701234584"
+    },
+    "otpVerified": true,
+    "role": "seller",
+    "status": "active",
+    "createdAt": {
+      "$date": "2024-05-01T07:47:53.877Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-06T08:12:40.946Z"
+    },
+    "__v": 0
+  }
+]
